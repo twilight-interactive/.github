@@ -1,5 +1,5 @@
-## Twilight Studios
+## Twilight Interactive
 
-Hello there! We are a game development studios based in the Netherlands.
+Hello there! We are a web and game development studios based in the Netherlands.
 
-Our projects are currently built on the Unity Engine.
+More to come soon!
